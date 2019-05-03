@@ -3,7 +3,7 @@ formation
 =========
 
 
-Add a short description here!
+Some notebooks to do a small formation for my pichipichi
 
 
 Description
